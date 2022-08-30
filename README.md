@@ -1,3 +1,7 @@
-# Demo 
+# Personal Portfolio: 
 
-Hello! I am a human. 
+LinkedIn: 
+Excel Certification: 
+Tableau Certification: 
+Jupyter Notebooks: 
+Other Files from past Data Analytic Projects: 
