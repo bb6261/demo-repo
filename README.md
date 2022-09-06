@@ -1,6 +1,6 @@
 # Personal Portfolio: 
 
-LinkedIn: 
+LinkedIn: www.linkedin.com/in/brian-bruno-673073229
 
 Excel Certification: 
 
