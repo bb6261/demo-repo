@@ -8,8 +8,6 @@ Tableau Certification:
 
 Jupyter Notebooks: 
 
-Personal Ethics Statement: 
-
-Actions/Issues/Matters:             My Stance: 
+Personal Ethics Statement: Save it as a PDF and include link here
 
 Other Files from past Data Analytic Projects: 
