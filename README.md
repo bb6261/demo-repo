@@ -14,10 +14,9 @@ Tableau Certifications:
 
  * https://verify.skilljar.com/c/ha67itdjcxpd
 
-Jupyter Notebook Exercises: Need b
-
 Personal Ethics Statement: 
-https://docs.google.com/document/d/e/2PACX-1vSiX4svJoHBNExNxYLt6OqllX37rYu_1G4S1awYPd--ay3IO4Xw1hzGQmuWsZnqMEF67tX5_pfMu9wP/pub
+
+ * https://docs.google.com/document/d/e/2PACX-1vSiX4svJoHBNExNxYLt6OqllX37rYu_1G4S1awYPd--ay3IO4Xw1hzGQmuWsZnqMEF67tX5_pfMu9wP/pub
 
 # __Other Files From Past Data Analytic Projects:__ 
 
@@ -26,5 +25,9 @@ https://docs.google.com/document/d/e/2PACX-1vSiX4svJoHBNExNxYLt6OqllX37rYu_1G4S1
  * (Tableau Project): https://docs.google.com/presentation/d/e/2PACX-1vQ65m4fUk8w2ez5qRCaicDfSqMwbWLOJq65YF1QTEcecvZx8d7UwUUh19nqLH5xGtViD_pEt3eaW1V5/pub?start=false&loop=false&delayms=3000
 
  * (SAS Enterprise Project): https://docs.google.com/presentation/d/e/2PACX-1vTQSEtMTQoU_AICPoaCXZEDsV44jGg64wuy4xWXyZ4j_kK2EItqIZ415jGfZBOvOg3crbAqOHXrSIZC/pub?start=false&loop=false&delayms=3000
+
+ * (Blue Prism RPA Project): https://docs.google.com/presentation/d/e/2PACX-1vTnuvMxXWTEhjdoNhV9Pm9s-u7OfT3I0c-9hXUfkFIxxiT7Isaa36gFx6dtRS7Eww/pub?start=false&loop=false&delayms=3000
  
  * (Jupyter Notebook Project): https://docs.google.com/presentation/d/e/2PACX-1vSG3oxa0VenaqaueN5k-rmcln_p-n_C8P68u8ZyzYzoEZYlFTU4zZQQwDIBdS193q_Z2jr86wgbiUG6/pub?start=false&loop=false&delayms=3000
+
+ * (Jupyter Notebook Exercises - Machine Learning): Need b
