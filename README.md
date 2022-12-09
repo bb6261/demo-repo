@@ -2,7 +2,7 @@
 
 LinkedIn: www.linkedin.com/in/brianbruno67
 
-Excel Certification: file:///C:/Users/firei/Downloads/Microsoft%20Certification%20(1).pdf
+Excel Certification: https://docs.google.com/document/d/e/2PACX-1vQszs8Jw9YOl3WylWjtt4r4ZwGVB3aBVGFmhKt48g65wBr6bWaCPqCRevAElLbL17TPblJM-nNdOTSc/pub
 
 Tableau Certifications: 
 
@@ -14,7 +14,7 @@ Tableau Certifications:
 
 Jupyter Notebook Exercises: Need b
 
-Personal Ethics Statement: file:///C:/Users/firei/Downloads/AI%20Ethics%20Chart%20(1).pdf
+Personal Ethics Statement: https://docs.google.com/document/d/e/2PACX-1vSiX4svJoHBNExNxYLt6OqllX37rYu_1G4S1awYPd--ay3IO4Xw1hzGQmuWsZnqMEF67tX5_pfMu9wP/pub
 
 Other Files from past Data Analytic Projects: 
 
