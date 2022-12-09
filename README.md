@@ -1,8 +1,10 @@
-# Personal Portfolio: 
+# __Personal Portfolio:__ 
 
-LinkedIn: www.linkedin.com/in/brianbruno67
+LinkedIn: 
+ * www.linkedin.com/in/brianbruno67
 
-Excel Certification: https://docs.google.com/document/d/e/2PACX-1vQszs8Jw9YOl3WylWjtt4r4ZwGVB3aBVGFmhKt48g65wBr6bWaCPqCRevAElLbL17TPblJM-nNdOTSc/pub
+Excel Certification:
+ * https://docs.google.com/document/d/e/2PACX-1vQszs8Jw9YOl3WylWjtt4r4ZwGVB3aBVGFmhKt48g65wBr6bWaCPqCRevAElLbL17TPblJM-nNdOTSc/pub
 
 Tableau Certifications: 
 
@@ -14,9 +16,10 @@ Tableau Certifications:
 
 Jupyter Notebook Exercises: Need b
 
-Personal Ethics Statement: https://docs.google.com/document/d/e/2PACX-1vSiX4svJoHBNExNxYLt6OqllX37rYu_1G4S1awYPd--ay3IO4Xw1hzGQmuWsZnqMEF67tX5_pfMu9wP/pub
+Personal Ethics Statement: 
+https://docs.google.com/document/d/e/2PACX-1vSiX4svJoHBNExNxYLt6OqllX37rYu_1G4S1awYPd--ay3IO4Xw1hzGQmuWsZnqMEF67tX5_pfMu9wP/pub
 
-Other Files from past Data Analytic Projects: 
+# __Other Files From Past Data Analytic Projects:__ 
 
  * (Minitab and Excel): https://docs.google.com/document/d/e/2PACX-1vRi9xdwwS3UL_eSf2j34uNwHEvtK-cf6s22PZNLcYSgzaNa7XMr388xwVGhqc9d5tEZBM6I9HReRlLr/pub
 
