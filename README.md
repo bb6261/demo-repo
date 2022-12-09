@@ -12,7 +12,7 @@ Tableau Certifications:
 
  * https://verify.skilljar.com/c/ha67itdjcxpd
 
-Jupyter Notebooks: 
+Jupyter Notebooks: Need
 
 Personal Ethics Statement: file:///C:/Users/firei/Downloads/AI%20Ethics%20Chart%20(1).pdf
 
